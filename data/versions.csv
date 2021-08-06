@@ -1,0 +1,13 @@
+cargo,1.38.0
+clang,9.0.0-2
+conda,4.7.12
+Emscripten,emcc 1.39.2
+Node.js,v13.7.0
+PolyBenchC,4.2.1 (beta)
+rustc,1.38.0
+rustup,1.19.0
+SpiderMonkey,JavaScript-C74.0
+wasi-sysroot,8.0
+Wasmer,0.7.0
+wasmtime,0.8.0
+WAVM,0.0.0-prerelease nightly/2019-11-04 (0cfad6a)
